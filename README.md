@@ -1,2 +1,2 @@
 # Django
-Files for Django based applications
+Files for Django based application called Rango
