@@ -1,2 +1,3 @@
 # Django
-Files for Django based application called Rango
+Files for Django based application called Rango.
+This is a place holder for future content ....
